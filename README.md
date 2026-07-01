@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Amir 👋
 
-<!--
-**itsamirakbari/itsamirakbari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Python Developer** passionate about building practical web applications and continuously improving my programming skills.
 
-Here are some ideas to get you started:
+## 💻 Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Flask
+- MySQL
+- HTML & CSS
+- Git & GitHub
+- Jinja2
+- bcrypt
+- python-dotenv
+
+## 🚀 Featured Projects
+
+### 📋 TaskBoard Pro
+A task management web application built with Python, Flask and MySQL.
+
+### 📂 Flask File Organizer
+A web application that automatically organizes files into categorized folders.
+
+### ❌⭕ Flask Tic Tac Toe
+A web-based Tic Tac Toe game featuring a rule-based AI opponent.
+
+### 🪨📄✂️ Flask Rock Paper Scissors
+A web-based Rock Paper Scissors game with user authentication, MySQL and a rule-based AI opponent.
+
+## 🌱 Currently Learning
+
+- Advanced Flask
+- REST APIs
+- Software Architecture
+- Clean Code
+- Design Patterns
+
+## 🎯 Goal
+
+To become a professional Python Backend Developer and build reliable, practical software.
+
+---
+
+⭐ Thanks for visiting my profile!
