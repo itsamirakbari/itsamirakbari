@@ -1,30 +1,45 @@
 # Hi there, I'm Amir 👋
 
-I'm a **Python Developer** focused on building secure, practical, and maintainable web applications with Python, Flask, and MySQL. I enjoy transforming ideas into real-world projects while continuously improving my software engineering skills.
+I'm a **Python Developer** focused on building practical and maintainable web applications with **Python, Flask, and MySQL**.
+
+I build real-world projects with clean architecture, authentication, database integration, and professional development practices. I enjoy turning ideas into functional software while continuously improving my skills.
 
 ---
 
 ## 💻 Technologies
 
+### Backend
 - Python
 - Flask
 - MySQL
-- HTML5 & CSS3
-- Jinja2
 - JWT Authentication
-- Python Logging
+- REST APIs
+
+### Web Development
+- HTML5
+- CSS3
+- Jinja2
+- Responsive Design
+
+### Tools & Practices
 - Git & GitHub
-- bcrypt
-- python-dotenv
+- Python Logging
+- Environment Variables
+- Clean Code
 
 ---
-
 ## 🚀 Featured Projects
 
+### 🏠 SAYEHDACH Website
+
+A professional company website built with Flask for a roofing company in Trier. Features include responsive design, contact form with email service, mobile navigation, and clean project structure.
+
 ### 💰 Expense Tracker Pro
+
 A professional expense tracking web application built with Flask, MySQL, JWT authentication, Python logging, and clean project architecture.
 
 ### 📋 TaskBoard Pro
+
 A task management web application featuring user authentication, CRUD operations, and MySQL integration.
 
 ### 📂 Flask File Organizer
